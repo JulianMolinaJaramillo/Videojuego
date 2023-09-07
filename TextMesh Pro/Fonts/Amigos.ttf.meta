@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a9b675ab3da5ebf4e86f5cffd009c89f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Amigos
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3344986cd1bcd1643992cf9eab2d17e7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
